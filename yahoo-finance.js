@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Yahoo finance display totals
+// @name         Yahoo finance displays totals
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
+// @version      0.2
+// @description  Calculate the totals for dividends and gains in a 2.0 yahoo portfolio
 // @author       You
 // @match        https://finance.yahoo.com/portfolio/*/view/v2
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=yahoo.com
